@@ -29,19 +29,3 @@ Siga as instruções abaixo para baixar e executar o projeto em sua máquina loc
    ```bash
    npm start
    ```
-
-4. **Utilize o Banco Simulado:**
-
-   O projeto agora está em execução. Você pode acessar o banco simulado fazendo requisições HTTP para os endpoints disponíveis. Consulte o arquivo `api.js` para obter informações sobre os endpoints disponíveis e os tipos de requisições suportados (por exemplo, GET, POST, PUT, DELETE).
-
-5. **Encerre o Projeto:**
-
-   Para encerrar o servidor Node.js, você pode pressionar `Ctrl+C` no terminal.
-
-## Contribuição
-
-Se você deseja contribuir para este projeto ou relatar problemas, sinta-se à vontade para criar uma "issue" ou enviar uma "pull request". Estamos abertos a colaborações e melhorias.
-
-## Licença
-
-Este projeto é distribuído sob a [Licença MIT](LICENSE). Sinta-se à vontade para usar, modificar e distribuir conforme necessário.
