@@ -11,7 +11,7 @@ Siga as instruções abaixo para baixar e executar o projeto em sua máquina loc
    Abra o terminal e navegue até a pasta onde deseja armazenar o projeto. Em seguida, execute o seguinte comando para clonar o repositório:
 
    ```bash
-   git clone https://github.com/seu-usuario/nome-do-repositorio.git
+   git clone https://github.com/felipemaifredoo/accounts_node.git
    ```
 
 2. **Instale as Dependências:**
